@@ -3,8 +3,11 @@ FEDFT_code
 
 # Local sequence collection example
 python GRFG_with_nni.py --file-name openml_586_1 --episodes 512 --steps 5 
+
 python GRFG_with_nni.py --file-name openml_586_2 --episodes 512 --steps 5 
+
 python GRFG_with_nni.py --file-name openml_586_3 --episodes 512 --steps 5 
+
 python GRFG_with_nni.py --file-name openml_586_4 --episodes 512 --steps 5 
 
 # Server Side training and inference
